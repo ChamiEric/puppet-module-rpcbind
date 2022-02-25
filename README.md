@@ -52,4 +52,3 @@ service_name
 String of service name.
 
 - *Default*: based on osfamily
-# puppet-module-rpcbind
